@@ -15,6 +15,6 @@
 - 💬 Ask me about my experience in Java, PL/SQL, and Software Design, or anything related to software architecture.
 - ⚡ Fun Fact: I'm an avid gamer and Warhammer fan.
 
-### Connect with Me :
+### Let's Connect :
 
 <a href="https://linkedin.com/in/ykhamees" target="_blank"><img src="https://img.shields.io/badge/-Yehia%20Khamis-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
